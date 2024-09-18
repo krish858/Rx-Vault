@@ -4,3 +4,5 @@
 
 expo-env.d.ts
 # @end expo-cli
+node_modules/expo-camera/android/src/main/java/expo/modules/camera/legacy/CameraViewLegacyModule.kt
+/node_modules
